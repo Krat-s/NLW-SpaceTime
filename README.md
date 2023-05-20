@@ -1,5 +1,5 @@
 <p aling="center">
-<img src=".github.png" alt="Demonstração do projeto" width="100%" />
+<img src="./.github/Preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
 ## 👨‍💻 [Projeto NLW Spacetime](https://krat-s.github.io/NLW-SpaceTime/) 👨‍💻
